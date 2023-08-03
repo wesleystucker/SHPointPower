@@ -25,10 +25,6 @@ Confidence intervals can also be provided for the correlation coefficients.
 
 Please refer to the function documentation within each script for detailed information on input parameters and outputs.
 
-## Examples
-
-Example usage and sample datasets can be found in the `examples` directory.
-
 ## License
 
 Feel free to use and modify the scripts according to your needs.

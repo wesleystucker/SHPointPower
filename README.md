@@ -1,4 +1,4 @@
-# spherical-harmonic-power
+# SHPointPower
 # Spectral and Correlation Analysis of Spherical Harmonic Coefficients of Points on a Sphere
 
 This repository contains two Python scripts for spectral analysis and correlation analysis of spherical harmonic coefficients. 
